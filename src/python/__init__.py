@@ -9,5 +9,5 @@ from .interface.realtime_mixer import RealtimeMixer
 from .automixer.pedalboard_processor import PedalboardProcessor
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
+__author__ = "tuanluongworks"
 __all__ = ["AudioFile", "AutoMixer", "RealtimeMixer", "PedalboardProcessor"] 

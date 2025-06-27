@@ -32,7 +32,7 @@ with open("README.md", encoding="utf-8") as f:
 setup(
     name="audio_practice",
     version="1.0.0",
-    author="Your Name",
+    author="tuanluongworks",
     author_email="your.email@example.com",
     description="Advanced auto-mixing system with C++ and Python",
     long_description=long_description,

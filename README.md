@@ -159,7 +159,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-[Your Name] - Senior Software Engineer specializing in audio processing and real-time systems.
+[tuanluongworks] - Senior Software Engineer specializing in audio processing and real-time systems.
 
 ## 🙏 Acknowledgments
 
