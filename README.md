@@ -1,7 +1,5 @@
 # MixForge - Advanced Auto-Mixing System
 
-A professional-grade audio processing system demonstrating C++ and Python integration for real-time auto-mixing applications. This project showcases advanced audio processing techniques using the Pedalboard library and custom C++ DSP algorithms.
-
 ## 🎯 Project Overview
 
 This project implements a sophisticated auto-mixing system that combines:
