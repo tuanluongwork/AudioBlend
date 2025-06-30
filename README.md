@@ -1,4 +1,4 @@
-# MixForge - Advanced Auto-Mixing System
+# AudioBlend - Advanced Auto-Mixing System
 
 ## 🎯 Project Overview
 
